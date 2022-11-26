@@ -1,1 +1,0 @@
-Atividade de Programação em C, que tem como objetivo fazer uma arvore binária de busca não balanceada simples, fiz e testei para valores aleatórios e ficou tudo OK.
